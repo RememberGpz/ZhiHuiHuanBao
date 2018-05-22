@@ -4,7 +4,7 @@ import com.google.gson.Gson;
 import com.lee.zhihuihuanbao.app.AppManager;
 import com.lee.zhihuihuanbao.app.Constants;
 import com.lee.zhihuihuanbao.app.MyApp;
-import com.lee.zhihuihuanbao.module.mine.bean.UserBean;
+import com.lee.zhihuihuanbao.UserBean;
 
 
 /**

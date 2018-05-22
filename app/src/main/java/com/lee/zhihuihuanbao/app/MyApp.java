@@ -6,7 +6,7 @@ import android.content.res.Resources;
 import android.os.Build;
 import android.os.StrictMode;
 
-import com.lee.zhihuihuanbao.module.mine.bean.UserBean;
+import com.lee.zhihuihuanbao.UserBean;
 import com.umeng.socialize.PlatformConfig;
 
 import java.util.List;

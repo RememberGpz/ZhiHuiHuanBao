@@ -1,4 +1,4 @@
-package com.lee.zhihuihuanbao.module.mine.bean;
+package com.lee.zhihuihuanbao;
 
 import android.os.Parcel;
 import android.os.Parcelable;
