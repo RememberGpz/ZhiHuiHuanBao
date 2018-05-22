@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="colorTheme">#F0A030</color>
+    <color name="colorWhite">#ffffffff</color>
+    <color name="colorYellow">#EEAD0E</color>
+    <color name="colorOrange">#EE5C42</color>
+    <color name="colorGreen">#3CB371</color>
+    <color name="deep_orange">#C77E02</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="tabBg">#F6F6F6</color>
+    <color name="font_middle">#666666</color>
+    <color name="font_light">#999999</color>
+    <color name="font_dark">#333333</color>
+    <color name="bg_line">#FFDAB9</color>
+    <color name="default_text_color">#444444</color>
+
+    <color name="black">#000000</color>
+    <color name="light_black">#e6080808</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="transparent_black_round_bg">#33000000</color>
+
+    <color name="transparent_black_round_bg01">#77000000</color>
+
+    <!--条目分割线-->
+    <color name="splitline_color">#d2d2d2</color>
+
+
+    <color name="support_yellow">#f9a340</color>
+    <color name="btn_unselect_color">#f4736e</color>
+    <color name="toolbar_color">#56af31</color>
+    <color name="default_icon_color">#999999</color>
+    <color name="cloud_invoice_gray_bg">#BFBFBF</color>
+    <color name="font_block_gray">#979797</color>
+    <color name="default_block_gray">#dedede</color>
+    <color name="text_success">#5CB976</color>
+    <color name="colorOrangeTransparent" tools:ignore="UnusedResources">#88ff9000</color>
+
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="user_black_bg">#393939</color>
+
+
+    <color name="colorWhiteTransparent" tools:ignore="UnusedResources">#88ffffff</color>
+    <color name="btn_white_normal">#f7f8f8</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="bottom_text_color">#7d8284</color>
+    <color name="color_gray_bg">#cccccc</color>
+    <color name="color_gray_tranf">#88cccccc</color>
+    <color name="font_red">#FF697C</color>
+    <color name="bg_red" tools:ignore="UnusedResources">#FF7E5F</color>
+    <color name="parting_line">#f1ede6</color>
+    <color name="pressed_icon_color">#E58C44</color>
+
+
+    <color name="bg_dark_orange">#F5561A</color>
+    <color name="bg_yellow">#FCA41E</color>
+    <color name="colorLineDeep">#BBBBBB</color>
+
+
+    <color name="register_pwd_status_bar">#FAA61A</color>
+    <color name="font_deep_red">#ff0000</color>
+</resources>
